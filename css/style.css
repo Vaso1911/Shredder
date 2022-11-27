@@ -60,7 +60,7 @@ a {
   padding: 80px;
   width: 100%;
   height: 100%;
-  background-image: url(/img/img.webp);
+  background-image: url(../img/img.webp);
   background-size: cover;
 }
 
@@ -94,7 +94,7 @@ a {
   width: 160px;
   height: 160px;
   border-radius: 50%;
-  background-image: url(/img/avaM.webp);
+  background-image: url(../img/avaM.webp);
   background-position-x: 50%;
   background-size: cover;
 }
